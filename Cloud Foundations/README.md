@@ -3,7 +3,7 @@
 ## Introduction to Amazon EC2
 
 This project demonstrates the process of completing the deployment and management of an Amazon EC2 instance.
-You can watch the presentation of this lab here: [Deploy EC2 in AWS Lab](https://www.youtube.com/watch?v=4s5FQI4r9oE)
+You can watch the demo of this lab here: [Deploy EC2 in AWS Lab](https://www.youtube.com/watch?v=4s5FQI4r9oE)
 
 
 
@@ -124,7 +124,10 @@ This feature prevents accidental instance deletion, ensuring service stability a
 ---
 
 ## YouTube Presentation
-🎥 Watch the full presentation here: [Deploy EC2 in AWS](https://www.youtube.com/watch?v=4s5FQI4r9oE)
+🎥 Watch the lab demo here: [Deploy EC2 in AWS](https://www.youtube.com/watch?v=4s5FQI4r9oE)
+
+🎥 Presentation of the theories behind the concepts covered in the lab. [Cloud Fondation](https://www.youtube.com)
+
 
 ---
 
