@@ -20,15 +20,15 @@ Amazon EC2 also provides flexible pricing models that allow users to pay only fo
 
 ### Topics Covered
 - Launch a web server with termination protection enabled  
-- Monitor your EC2 instance  
+- Monitor EC2 instance  
 - Modify the security group to allow HTTP access  
-- Resize your EC2 instance to scale  
+- Resize EC2 instance to scale  
 - Test termination protection  
-- Terminate your EC2 instance  
+- Terminate EC2 instance  
 
 ---
 
-## Task 1: Launching Your EC2 Instance
+## Task 1: Launching EC2 Instance
 
 ### Step 1: Open the Amazon EC2 Console
 - In the AWS Management Console, choose **EC2** from the **Services** menu.
@@ -36,7 +36,7 @@ Amazon EC2 also provides flexible pricing models that allow users to pay only fo
 ### Step 2: Launch an Instance
 - From the **EC2 Dashboard**, select **Launch Instance**.
 
-### Step 3: Naming Your Instance
+### Step 3: Naming Instance
 - In the **Name and tags** pane, enter **Web Server** as the instance name.
 
 ### Step 4: Choosing an Amazon Machine Image (AMI)
@@ -64,7 +64,7 @@ Amazon EC2 also provides flexible pricing models that allow users to pay only fo
 
 ---
 
-## Task 2: Monitor Your Instance
+## Task 2: Monitor Instance
 - Verify that **System reachability** and **Instance reachability** checks have passed.
 - Capture a screenshot of the running instance for monitoring verification.
 
@@ -77,13 +77,13 @@ Amazon EC2 also provides flexible pricing models that allow users to pay only fo
   - Source: Anywhere (IPv4)
 - Open a web browser and access the **Public IPv4 Address**.  
   You should see the message:  
-  **“Hello From Your Web Server!”**
+  **“Hello From Web Server!”**
 
 ---
 
-## Task 4: Resize Your Instance (Instance Type and EBS Volume)
+## Task 4: Resize Instance (Instance Type and EBS Volume)
 
-### Step 1: Stop Your Instance  
+### Step 1: Stop Instance  
 Before resizing, stop the instance.
 
 ### Step 2: Change Instance Type  
@@ -106,17 +106,17 @@ Before resizing, stop the instance.
 
 ## Conclusions
 
-### Launching Your EC2 Instance
+### Launching EC2 Instance
 The launch instance wizard enables you to quickly create an EC2 instance with customizable parameters tailored for optimal performance.
 
-### Monitoring Your Instance
+### Monitoring Instance
 AWS monitoring tools provide visibility into instance health and reachability for faster troubleshooting.
 
 ### Security Groups
 Security groups act as firewalls, controlling inbound and outbound traffic for EC2 instances to enhance security.
 
-### Resizing Your Instance
-You can easily modify instance type, disk space, and network settings as your compute requirements change.
+### Resizing Instance
+You can easily modify instance type, disk space, and network settings as compute requirements change.
 
 ### Termination Protection
 This feature prevents accidental instance deletion, ensuring service stability and cost management.
