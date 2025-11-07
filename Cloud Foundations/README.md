@@ -2,7 +2,7 @@
 
 ## Introduction to Amazon EC2
 
-This project demonstrates the process of deploying and managing an **Amazon EC2 instance** as part of the **AWS re/Start Lab**.  
+This project demonstrates the process of completing the deployment and management of an Amazon EC2 instance.
 You can watch the presentation of this lab here: [Deploy EC2 in AWS Lab](https://www.youtube.com/watch?v=4s5FQI4r9oE)
 
 
