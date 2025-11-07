@@ -86,13 +86,13 @@ Amazon EC2 also provides flexible pricing models that allow users to pay only fo
 Before resizing, stop the instance.
 
 ### Step 2: Change Instance Type  
-- Change from **t3.micro** to **t3.small** (2× memory).
+Change from **t3.micro** to **t3.small** (2× memory).
 
 ### Step 3: Resize the EBS Volume  
-- Increase root volume size from **8 GiB → 10 GiB**.
+Increase root volume size from **8 GiB → 10 GiB**.
 
 ### Step 4: Start the Resized Instance  
-- Start the instance again with the new configuration.
+Start the instance again with the new configuration.
 
 ---
 
