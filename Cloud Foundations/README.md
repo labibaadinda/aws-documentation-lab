@@ -9,8 +9,7 @@ You can watch the demo of this lab here: [Deploy EC2 in AWS Lab](https://www.you
 
 Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure, resizable compute capacity in the cloud. It is designed to make web-scale cloud computing easier for developers.
 
-Through Amazon EC2, users can deploy and manage virtual machines (VMs) on AWS infrastructure, including support for both **Microsoft Windows** and **Linux** environments.  
-EC2 instances are categorized into various instance types, each offering different combinations of CPU, memory, storage, and networking capacity.
+Through Amazon EC2, users can deploy and manage virtual machines (VMs) on AWS infrastructure, including support for environments such as **Microsoft Windows**, **Mac**, **Ubuntu**, **Amazon Linux**, and more. EC2 instances are categorized into various instance types, each offering different combinations of CPU, memory, storage, and networking capacity.
 
 Amazon EC2 also provides flexible pricing models that allow users to pay only for the compute resources they use, making it an efficient and cost-effective solution for running applications in the cloud.
 
